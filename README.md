@@ -1,10 +1,8 @@
 # Linear-Block-Code
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
-
 # Tools required
-Python IDE
-
+Python IDE with Numpy and Scipy
 # Program
 ```
 import numpy as np
@@ -97,15 +95,12 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 
 ```
 # Output Waveform
-<img width="597" height="933" alt="Screenshot 2025-09-28 220552" src="https://github.com/user-attachments/assets/9c31eb1f-3689-4fa8-98b8-b8dd7f076f55" />
 
-<img width="476" height="467" alt="image" src="https://github.com/user-attachments/assets/a4e8331c-b90b-4645-adc3-f085fe0182f9" />
-
-
-![WhatsApp Image 2025-09-28 at 22 07 50_8d4285d2](https://github.com/user-attachments/assets/ee8489a7-7d86-459e-b678-beabd9dfc653)
-![WhatsApp Image 2025-09-28 at 22 07 50_f9aeba5d](https://github.com/user-attachments/assets/aff05993-c1ef-4d11-989b-12ea0af0188f)
+![WhatsApp Image 2025-09-22 at 13 53 03_80252ba8](https://github.com/user-attachments/assets/05f30ad3-17a6-4515-a6ed-f40dea30142e)
+![WhatsApp Image 2025-09-22 at 13 53 03_94191f4b](https://github.com/user-attachments/assets/44874f42-7f6e-4c2a-8479-32a69849f5d8)
+![WhatsApp Image 2025-09-22 at 13 57 40_438903a2](https://github.com/user-attachments/assets/6debeb89-b1e1-4838-a3a9-c72cbd121719)
+![WhatsApp Image 2025-09-22 at 13 57 40_8d037f23](https://github.com/user-attachments/assets/0b79116a-164d-4487-aa6d-809d92e2c6ac)
+![WhatsApp Image 2025-09-22 at 13 57 41_3f1f6cab](https://github.com/user-attachments/assets/2a958795-b915-4067-9857-6dae7f007c1f)
 
 # Results
-
 Thus linear block code operation for the given input is successfully verified.
-
